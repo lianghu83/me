@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Liang Hu (胡良)"
   avatar           : "profile.png"
-  bio              : "Senior Researcher \n Huawei Technologies Canada"
+  bio              : "Senior Researcher"
   location         : "Vancouver, Canada"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Huawei Technologies Canada"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3geLjmMAAAAJ&hl=en"
-  email            : "lianghu814[at]gmail.com"
+  email            : "lianghu814@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Liang_Hu30"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lianghu83/"
   orcid            : "https://orcid.org/0000-0001-6351-8542"
   pinterest        :
   soundcloud       :
