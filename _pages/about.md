@@ -13,7 +13,6 @@ Engineering from Iowa State University and received the Research Excellence Awar
 application of operations research and data mining to intelligent transportation systems, smart
 cities, future mobility, and emerging vehicle technologies. He published multiple papers in top journals and has
 received 200+ citations. Previous to joining Huawei, he worked as the Postdoctoral Research Associate at Iowa State University and the intern at General Motors and Oak Ridge National Laboratory.
-
 [CV]
 
 Research Interests
