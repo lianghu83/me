@@ -12,21 +12,21 @@ Liang Hu is a Senior Researcher at Huawei Technologies Canada. He holds Ph.D. de
 Engineering from Iowa State University and received the Research Excellence Award. His works focus on
 application of operations research and data mining to product R&D on intelligent transportation systems, smart
 city, future mobility, and emerging vehicle technologies. He published multiple papers in top journals and has
-received 200+ citations.
+received 200+ citations. Previous to joining Huawei, he worked as the Postdoctoral Research Associate at Iowa State University, and interned at General Motors and Oak Ridge National Laboratory. [CV]{}
 
-Research Interest
+Research Interests
 ======
-* Transportation modeling
 * Intelligent Transportation Systems (ITS)
-* Emerging vehicle technologies (electric, connected, autonomous vehicles)
+* Smart Cities
+* Emerging vehicle technologies, e.g., electric, connected, and autonomous vehicles
 * Future mobility
-* Operations Research
-* Machine learning applications to transportation
-
+* Traffic signal control
+* Operations research and data mining application to various transportation problems
 
 Publications
 ======
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=3geLjmMAAAAJ&hl=en) profile and [ResearchGate](https://www.researchgate.net/profile/Liang_Hu30) profile.
+You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=3geLjmMAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Liang_Hu30).
+
 Peer-reviewed Articles
 ------
 * Hu, L. and Dong, J., 2020. An Artificial-Neural-Network-Based Model for Real-Time Dispatching of Electric Autonomous Taxis. IEEE Transactions on Intelligent Transportation Systems. [link](https://ieeexplore.ieee.org/document/9237154)
@@ -70,7 +70,7 @@ Electric Taxi Fleet. Montreal, Quebec, June 2016. [link]()
 
 Professional Services
 ======
-I'm the review for these journals. Please email me if you'd like to appoint me as a reviewer for your journal.
+I'm the reviewer for these journals. Please email me if you'd like to appoint me as a reviewer for your journal.
 * Nature Energy
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Access
@@ -90,8 +90,8 @@ I'm the review for these journals. Please email me if you'd like to appoint me a
 
 Awards
 ======
-* Research Excellence Award, Iowa State University, May 2019
 * Timely Incentive Award, Huawei Technologies Canada, July 2020
+* Research Excellence Award, Iowa State University, May 2019
 * Outstanding Undergraduates Award, Beijing Municipal Commission of Education, June 2013
 * Yihai Kerry Scholarship, October 2012
 * National Scholarship, Chinese Ministry of Education, October 2010
