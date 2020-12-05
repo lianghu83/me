@@ -27,10 +27,8 @@ Research Interest
 Publications
 ======
 You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=3geLjmMAAAAJ&hl=en) profile and [ResearchGate](https://www.researchgate.net/profile/Liang_Hu30) profile.
-
 Peer-reviewed Articles
 ------
-
 * Hu, L. and Dong, J., 2020. An Artificial-Neural-Network-Based Model for Real-Time Dispatching of Electric Autonomous Taxis. IEEE Transactions on Intelligent Transportation Systems. [link](https://ieeexplore.ieee.org/document/9237154)
 * Dong, J., Wu, X., Liu, C., Lin, Z. and Hu, L., 2020. The impact of reliable range estimation on battery electric vehicle feasibility. International Journal of Sustainable Transportation, 14 (11), pp.833-842. [link](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1639085)
 * Hu, L., Dong, J. and Lin, Z., 2019. Modeling charging behavior of battery electric vehicle drivers: A cumulative
@@ -45,6 +43,7 @@ Energy Policy, 115, pp.1-11. [link](https://www.sciencedirect.com/science/articl
 * Yang, J., Dong, J., Lin, Z. and Hu, L., 2016. Predicting market potential and environmental benefits of deploying electric taxis in Nanjing, China. Transportation Research Part D: Transport and Environment, 49, pp.68-81. [link](https://www.sciencedirect.com/science/article/pii/S1361920916300268)
 * Hu, L., Wang, M.Q. and Kong, D.Y., 2015. A Calculation Model for Greenhouse Gas Emission Impacts of Electric
 Vehicle Carsharing. Low-carbon City and New-type Urbanization, pp.129-138. [link](https://link.springer.com/chapter/10.1007/978-3-662-45969-0_12)
+
 Others
 ------
 * Hu, L., 2019. Data-driven analyses of future electric personal mobility. Doctoral dissertation, Iowa State University. [link](https://lib.dr.iastate.edu/etd/17215/)
