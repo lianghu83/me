@@ -23,8 +23,10 @@ Research Interest
 * Operations Research
 * Machine learning applications to transportation
 
+
 Publications
 ======
+You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=3geLjmMAAAAJ&hl=en) profile and [ResearchGate](https://www.researchgate.net/profile/Liang_Hu30) profile.
 
 Peer-reviewed Articles
 ------
