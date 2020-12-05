@@ -10,17 +10,18 @@ redirect_from:
 
 Liang Hu is a Senior Researcher at Huawei Technologies Canada. He holds Ph.D. degree in Transportation
 Engineering from Iowa State University and received the Research Excellence Award. His works focus on
-application of operations research and data mining to product R&D on intelligent transportation systems, smart
+application of operations research and data mining to intelligent transportation systems, smart
 cities, future mobility, and emerging vehicle technologies. He published multiple papers in top journals and has
-received 200+ citations. Previous to joining Huawei, he worked as the Postdoctoral Research Associate at Iowa State University, and interned at General Motors and Oak Ridge National Laboratory. [CV]{}
+received 200+ citations. Previous to joining Huawei, he worked as the Postdoctoral Research Associate at Iowa State University and the intern at General Motors and Oak Ridge National Laboratory. [CV]{https://lianghu83.github.io/me/}
 
 Research Interests
 ======
 * Intelligent Transportation Systems (ITS)
 * Smart Cities
-* Emerging vehicle technologies, e.g., electric, connected, and autonomous vehicles
+* Emerging vehicle technologies (electric, connected, and autonomous vehicles)
 * Future mobility
 * Traffic signal control
+* Supply chain and logistics
 * Operations research and data mining application to various transportation problems
 
 Publications
