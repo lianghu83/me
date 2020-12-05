@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Liang Hu (胡良)"
   avatar           : "profile.png"
-  bio              : "Senior Researcher"
+  bio              : "Senior Researcher, Huawei Technologies Canada"
   location         : "Vancouver, Canada"
-  employer         : "Huawei Technologies Canada"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3geLjmMAAAAJ&hl=en"
   email            : "lianghu814@gmail.com"

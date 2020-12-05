@@ -26,25 +26,58 @@ Research Interest
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Publications
+======
+Peer-reviewed Articles
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+
+* Hu, L. and Dong, J., 2020. An Artificial-Neural-Network-Based Model for Real-Time Dispatching of Electric Autonomous Taxis. IEEE Transactions on Intelligent Transportation Systems. [link](https://ieeexplore.ieee.org/document/9237154)
+* Dong, J., Wu, X., Liu, C., Lin, Z. and Hu, L., 2020. The impact of reliable range estimation on battery electric vehicle feasibility. International Journal of Sustainable Transportation, 14 (11), pp.833-842. [link](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1639085)
+* Hu, L., Dong, J. and Lin, Z., 2019. Modeling charging behavior of battery electric vehicle drivers: A cumulative
+prospect theory based approach. Transportation Research Part C: Emerging Technologies, 102, pp.474-489. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968090X18312087)
+* Lu, C., Dong, J. and Hu, L., 2019. Energy-Efficient Adaptive Cruise Control for Electric Connected and Autonomous
+Vehicles. IEEE Intelligent Transportation Systems Magazine, 11 (3), pp.42-55. [link](https://ieeexplore.ieee.org/document/8742785)
+* Lu, C., Dong, J., Hu, L. and Liu, C., 2019. An ecological adaptive cruise control for mixed traffic and its stabilization effect. IEEE Access, 7, pp.81246-81256. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8741006)
+* Hu, L., Dong, J., Lin, Z. and Yang, J., 2018. Analyzing battery electric vehicle feasibility from taxi travel patterns: The case study of New York City, USA. Transportation Research Part C: Emerging Technologies, 87, pp.91-104. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968090X17303789)
+* Yang, J., Dong, J. and Hu, L., 2018. Design government incentive schemes for promoting electric taxis in China.
+Energy Policy, 115, pp.1-11. [link](https://www.sciencedirect.com/science/article/abs/pii/S0301421517308546)
+* Yang, J., Dong, J. and Hu, L., 2017. A data-driven optimization-based approach for siting and sizing of electric taxi charging stations. Transportation Research Part C: Emerging Technologies, 77, pp.462-477. (Highly Cited Paper) [link](https://www.sciencedirect.com/science/article/abs/pii/S0968090X17300542)
+* Yang, J., Dong, J., Lin, Z. and Hu, L., 2016. Predicting market potential and environmental benefits of deploying electric taxis in Nanjing, China. Transportation Research Part D: Transport and Environment, 49, pp.68-81. [link](https://www.sciencedirect.com/science/article/pii/S1361920916300268)
+* Hu, L., Wang, M.Q. and Kong, D.Y., 2015. A Calculation Model for Greenhouse Gas Emission Impacts of Electric
+Vehicle Carsharing. Low-carbon City and New-type Urbanization, pp.129-138. [link](https://link.springer.com/chapter/10.1007/978-3-662-45969-0_12)
+
+Others
+------
+* Hu, L., 2019. Data-driven analyses of future electric personal mobility. Doctoral dissertation, Iowa State University. [link](https://lib.dr.iastate.edu/etd/17215/)
+* Lu, C., Hu, L. and Dong, J., 2018. Ecological Adaptive Cruise Control in a Traffic Stream with Mixed Autonomous
+and Manually Driven Vehicles. Transportation Research Board 97th Annual Meeting, Washington, D.C., No. 18-05434. [link](https://trid.trb.org/view/1496763)
+* Dong, J., Lu, C. and Hu, L., 2018. Estimating Energy Efficiency of Connected and Autonomous Vehicles in a Mixed
+Fleet (No. IHRB Project TR-708D). Center for Transportation Research and Education, Iowa State University. [link](https://rosap.ntl.bts.gov/view/dot/36110)
+* Hu, L. and Dong, J., 2017. Investigation of the Link Between Macroscopic Traffic Flow Characteristics and Individual Vehicle Fuel Consumption. Center for Transportation Research and Education, Iowa State University. [link](https://rosap.ntl.bts.gov/view/dot/34187)
 
 Talks
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+======
+* 2020 INFORMS Annual Meeting. An Artificial Neural Network Based Model for Real Time Dispatching of Electric
+Autonomous Taxis. Seattle, Washington, October 2019.
+* USDOT T3e Webinar. Energy-Efficient Adaptive Cruise Control for Electric Connected and Autonomous Vehicles.
+Washington, D.C., March 2018. [link](https://www.pcb.its.dot.gov/t3/s180308_Energy_Efficient_ACC_for_Electric_CV_and_AV.aspx)
+* 2017 INFORMS Annual Meeting. Modeling the Operations of Electric Autonomous Taxis in New York City. Houston,
+Texas, October 2017. [link](https://lianghu.weebly.com/uploads/1/1/8/3/118320288/publication_5.pdf)
+* Automated Vehicles Symposium (AVS) 2017. Estimating Energy Efficiency of Connected and Autonomous Vehicles in
+a Mixed Fleet. San Francisco, California, July 2017. [link](https://higherlogicdownload.s3.amazonaws.com/AUVSI/14c12c18-fde1-4c1d-8548-035ad166c766/UploadedImages/2017/PDFs/Proceedings/BOs/Bo9-1.pdf)
+* Transportation Research Board (TRB) 96th Annual Meeting. An Investigation of Taxi Travel Patterns and
+Implications on the Feasibility of Electric Taxis. Washington, D.C., January 2017. [link](https://lianghu.weebly.com/uploads/1/1/8/3/118320288/2017_trb_poster.pdf)
+* The 29th World Electric Vehicle Symposium (EVS) and Exhibition. Optimal Charging Infrastructure Planning for
+Electric Taxi Fleet. Montreal, Quebec, June 2016. [link]()
 
-**Markdown generator**
+Professional Services
+======
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Awards
+======
+* Research Excellence Award, Iowa State University, May 2019
+* Timely Incentive Award, Huawei Technologies Canada, July 2020
+* Outstanding Undergraduates Award, Beijing Municipal Commission of Education, June 2013
+* Yihai Kerry Scholarship, October 2012
+* National Scholarship, Chinese Ministry of Education, October 2010
